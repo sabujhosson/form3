@@ -1,0 +1,326 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .form{
+    background: #E8EAF0;
+    display: block;
+    }
+    .form_full{
+    
+padding: 0px 166px;
+    
+display: flex;
+    
+justify-content: space-between;
+    
+flex-wrap: wrap;
+    }
+    .form_part{
+    
+width: 40%;
+    
+background: #4158ff;
+    }
+    .google{
+    
+    text-align: center;
+    }
+    .google img{
+    
+    margin-top: 29px;
+    }
+    .google h2{
+    
+margin-top: 20px;
+    
+margin-bottom: 15px;
+    
+color: white;
+    }
+    .google a{
+    }
+    .google input{
+    
+    width: 61%;
+    
+    padding: 7px 0px;
+    
+    text-align: center;
+    
+    border-radius: 5px;
+    
+    margin-bottom: 10px;
+    }
+    .google h4{
+    
+font-size: 15px;
+    
+font-weight: 400;
+    
+color: white;
+    }
+    .form_image{
+    
+    width: 60%;
+    }
+    .form_image img{
+        
+width: 80%;
+    }
+    .email{
+
+margin-left: 64px;
+
+}
+    .email form{
+
+color: white;
+
+}
+    .email form input{
+
+padding: 10px 53px;
+
+margin-bottom: 19px;
+
+border-radius: 5px;
+
+text-align: start;
+
+/* background: #4158ff; */
+
+border: 1px solid;
+
+border-color: white;
+}
+    .ckb{
+
+margin-top: -12px;
+
+}
+    .ckb input{ 
+
+    }
+    .ckb a{
+
+text-decoration: none;
+
+padding: 27px;
+
+color: yellowgreen;
+}
+
+.email form input[type="submit"] {
+
+padding: 9px 117px;
+
+margin-top: 16px;
+
+color: royalblue;
+
+font-size: 15px;
+}  
+.sing_up{
+
+display: flex;
+
+justify-content: center;
+
+margin-top: 20px;
+} 
+.sing_up p{ 
+
+}
+.sing_up a{
+    
+font-size: 18px;
+    
+text-decoration: none;
+    
+color: white;
+}
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
+
+        
+    
+    
+
+
+    
+
